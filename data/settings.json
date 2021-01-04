@@ -14,11 +14,11 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Perguntas e respostas sobre a vacina",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
+          "slug": "como-as-vacinas-rnam-funcionam"
         },
         {
           "title": "Forestry CMS",
