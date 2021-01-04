@@ -8,6 +8,10 @@
           "slug": "motivacao"
         },
         {
+          "title": "Fontes",
+          "slug": "fontes"
+        },
+        {
           "title": "Colaboradores",
           "slug": "colaboradores"
         },
@@ -17,7 +21,7 @@
         },
         {
           "title": "Patrocine este projeto",
-          "slug": "patrocine"
+          "slug": "patrocine-este-projeto"
         }
       ]
     },
