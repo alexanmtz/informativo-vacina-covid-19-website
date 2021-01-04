@@ -10,6 +10,10 @@
         {
           "title": "Colaboradores",
           "slug": "colaborators"
+        },
+        {
+          "title": "Tecnologias",
+          "slug": "tecnologias"
         }
       ]
     },
