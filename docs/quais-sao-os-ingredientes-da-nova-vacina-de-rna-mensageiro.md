@@ -15,12 +15,12 @@ Estes são os únicos ingredientes da vacina da Pfizer que usa o RNA mensageiro.
 
 As vacinas da Pfizer não incluem:
 
-* Material fetal
-* DNA
-* Antibiótico
+* [Material fetal](https://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/fetal-tissues "Vacinas usam materiais fetais (em inglês)")
+* [DNA]()
+* [Antibiótico](https://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/antibiotics "Vacinas usam antibiótico para serem produzidas?")
 * Qualquer produto sanguíneo
-* Preservativos, como thimerosal
+* Preservativos, como [thimerosal]()
 * Gluten
-* Proteínas do ovo
+* [Proteínas do ovo](https://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/egg-products "Vacinas usam proteína do Ovo como ingrediente?")
 * Produtos vindos de porcos
 * Microchips
