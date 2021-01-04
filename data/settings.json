@@ -14,7 +14,7 @@
       ]
     },
     {
-      "section": "Perguntas e respostas sobre a vacina",
+      "section": "Perguntas e respostas sobre a vacina para COVID-19",
       "topics": [
         {
           "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
@@ -35,6 +35,26 @@
         {
           "title": "Por que eu não deveria tomar a vacina para o COVID-19?",
           "slug": "por-que-eu-nao-deveria-tomar-vacina-para-o-convid19"
+        },
+        {
+          "title": "Quais são os efeitos colaterais da vacina?",
+          "slug": "quais-sao-os-efeitos-colaterais-da-vacina"
+        },
+        {
+          "title": "O quão bem a vacina de RNA Mensageiro funciona?",
+          "slug": "o-quao-bem-a-vacina-de-rnam-funciona"
+        },
+        {
+          "title": "Uma vez tomada a vacina, estou livre das restrições impostas no lockdown?",
+          "slug": "uma-vez-tomada-a-vacina-estou-livre-do-lockdown"
+        },
+        {
+          "title": "Quais tipos de vacina para COVID-19 estão sendo testadas?",
+          "slug": "quais-tipos-de-vacina-estao-sendo-testadas"
+        },
+        {
+          "title": "",
+          "slug": ""
         }
       ]
     }
