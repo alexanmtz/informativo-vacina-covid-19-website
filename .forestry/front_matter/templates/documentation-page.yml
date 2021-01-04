@@ -15,4 +15,6 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/colaboradores.md
 - docs/informativo-sobre-o-virus-da-covid-19-e-as-vacinas.md
+- docs/tecnologias.md
