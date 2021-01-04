@@ -15,8 +15,10 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/as-vacinas-de-rna-mensageiro-mrna-podem-modificar-o-dna-de-uma-pessoa.md
 - docs/colaboradores.md
 - docs/como-vacinas-que-usam-rna-mensageiro-mrna-funcionam.md
 - docs/informativo-sobre-o-virus-da-covid-19-e-as-vacinas.md
 - docs/patrocine-este-projeto.md
+- docs/por-que-o-corpo-pararia-de-produzir-a-proteina-imunizante-para-o-covid-19-depois-de-se-aplicar-a-vacina-de-rna-mensageiro.md
 - docs/tecnologias.md
