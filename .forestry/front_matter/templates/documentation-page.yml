@@ -14,3 +14,5 @@ fields:
 - type: text
   name: slug
   label: slug
+pages:
+- docs/informativo-sobre-o-virus-da-covid-19-e-as-vacinas.md
