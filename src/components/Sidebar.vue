@@ -170,11 +170,11 @@ ul {
   margin-bottom: 20px;
   opacity: .3;
   letter-spacing: .15em;
-  font-weight: 700;
 }
 
 .topic {
-  font-weight: 700;
+  border-bottom: 1px dashed #ccc;
+  padding: 10px 0;
 }
 
 .sub-topic {
