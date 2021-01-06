@@ -8,7 +8,6 @@ require('typeface-source-sans-pro')
 
 export default function (Vue, { router, head, isClient, appOptions }) {
   Vue.use(Vuex)
-
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
 

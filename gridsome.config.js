@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteName: 'Perguntas e respostas sobre a vacina para o Covid-19',
+  siteUrl: 'https://vacina-covid.com.br',
   templates: {
     Doc: '/:slug',
   },

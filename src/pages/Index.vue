@@ -1,22 +1,37 @@
 <template>
-  <Layout :sidebar="false">
+  <Layout :sidebar="true">
     <div class="content">
-      <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
+      <h1>{{ $static.metadata.siteName }}</h1>
+      <small style="text-align: center; margin-bottom: 40px; margin-top: -40px"> {{ this.description }} </small>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
+        <Shortcut 
+          v-for="doc in $static.docs.edges"
+          :key="doc.node.title"
+          :link="doc.node.path"
+          :text="doc.node.title"
+          icon="help-circle-icon" />
       </nav>
-      <GitLink class="git" size="large" />
+      <GitLink class="git" size="small" />
     </div>
   </Layout>
 </template>
 
 <static-query>
+
 query {
   metadata {
     siteName
+  },
+  docs: allDoc(filter: { tags: {contains: "FAQ"} }) {
+    edges {
+      node {
+        title,
+        slug,
+        path,
+        tags
+      }
+    }
   }
 }
 </static-query>
@@ -32,7 +47,7 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: 'Combatendo as fake news sobre a vacinação contra o vírus da COVID-19'
     }
   },
   metaInfo() {
@@ -69,6 +84,7 @@ h2 {
 
 nav {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   flex-direction: column;
 
