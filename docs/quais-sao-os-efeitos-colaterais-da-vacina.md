@@ -2,6 +2,8 @@
 title: Quais são os efeitos colaterais da vacina?
 date: 2021-01-02
 slug: quais-sao-os-efeitos-colaterais-da-vacina
+tags:
+- FAQ
 
 ---
 Os efeitos colaterais da vacina com RNA mensageiro são causadas como parte da resposta do nosso sistema imunológico dianate da vacina. Quanto mais vigorosa a resposta do sistema imune, mais comum são os efeitos colaterais.
