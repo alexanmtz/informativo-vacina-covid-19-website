@@ -14,6 +14,10 @@ fields:
 - type: text
   name: slug
   label: slug
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - docs/as-vacinas-de-rna-mensageiro-mrna-podem-modificar-o-dna-de-uma-pessoa.md
 - docs/colaboradores.md
